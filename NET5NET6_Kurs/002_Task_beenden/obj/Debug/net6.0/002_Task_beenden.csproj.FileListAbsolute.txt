@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\bin\Debug\net6.0\002_Task_beenden.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\bin\Debug\net6.0\002_Task_beenden.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\bin\Debug\net6.0\002_Task_beenden.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\bin\Debug\net6.0\002_Task_beenden.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\bin\Debug\net6.0\002_Task_beenden.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\refint\002_Task_beenden.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\002_Task_beenden.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\002_Task_beenden\obj\Debug\net6.0\ref\002_Task_beenden.dll

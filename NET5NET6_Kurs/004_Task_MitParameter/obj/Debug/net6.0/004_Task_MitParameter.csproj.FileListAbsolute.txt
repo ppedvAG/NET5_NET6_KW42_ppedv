@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\bin\Debug\net6.0\004_Task_MitParameter.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\bin\Debug\net6.0\004_Task_MitParameter.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\bin\Debug\net6.0\004_Task_MitParameter.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\bin\Debug\net6.0\004_Task_MitParameter.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\bin\Debug\net6.0\004_Task_MitParameter.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\refint\004_Task_MitParameter.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\004_Task_MitParameter.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\004_Task_MitParameter\obj\Debug\net6.0\ref\004_Task_MitParameter.dll

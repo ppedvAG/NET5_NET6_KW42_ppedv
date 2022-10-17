@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\bin\Debug\net6.0\005_Task_mit_Exceptions.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\bin\Debug\net6.0\005_Task_mit_Exceptions.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\bin\Debug\net6.0\005_Task_mit_Exceptions.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\bin\Debug\net6.0\005_Task_mit_Exceptions.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\bin\Debug\net6.0\005_Task_mit_Exceptions.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\refint\005_Task_mit_Exceptions.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\005_Task_mit_Exceptions.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\005_Task_mit_Exceptions\obj\Debug\net6.0\ref\005_Task_mit_Exceptions.dll
