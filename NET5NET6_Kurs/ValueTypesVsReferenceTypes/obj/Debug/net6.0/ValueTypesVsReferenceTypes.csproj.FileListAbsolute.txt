@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\bin\Debug\net6.0\ValueTypesVsReferenceTypes.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\bin\Debug\net6.0\ValueTypesVsReferenceTypes.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\bin\Debug\net6.0\ValueTypesVsReferenceTypes.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\bin\Debug\net6.0\ValueTypesVsReferenceTypes.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\bin\Debug\net6.0\ValueTypesVsReferenceTypes.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\refint\ValueTypesVsReferenceTypes.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ValueTypesVsReferenceTypes.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\ValueTypesVsReferenceTypes\obj\Debug\net6.0\ref\ValueTypesVsReferenceTypes.dll

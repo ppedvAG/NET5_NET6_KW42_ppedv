@@ -5,10 +5,10 @@ Email: KevinW@ppedv.de
 Themen
 
 Montag 
-- [ ] TPL
-- [ ] Async / Await Pattern
-- [ ] Referenztypen / Wertetypen
-- [ ] Records
+- [x] TPL
+- [x] Async / Await Pattern
+- [x] Referenztypen / Wertetypen
+- [x] Records
 - [ ] Generics
   
   Dienstag

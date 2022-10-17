@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\bin\Debug\net6.0\007_ContinueWithParams.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\bin\Debug\net6.0\007_ContinueWithParams.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\bin\Debug\net6.0\007_ContinueWithParams.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\bin\Debug\net6.0\007_ContinueWithParams.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\bin\Debug\net6.0\007_ContinueWithParams.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\refint\007_ContinueWithParams.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\007_ContinueWithParams.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\007_ContinueWithParams\obj\Debug\net6.0\ref\007_ContinueWithParams.dll

@@ -23,6 +23,8 @@
                 throw new Exception();
             });
 
+            
+
             t1.Start();
 
             //ContinueWith hat 2 Aufgaben:
@@ -32,15 +34,24 @@
             //Variante 1 -> Wie erstellen wir eineVerkettung von Tasks 
 
             //1.) Allgemeiner Folgetask wird immer gestartet
-            t1.ContinueWith(t => AllgemeinerFolgetask());
+            Task t2 = t1.ContinueWith(t => AllgemeinerFolgetask());
+
+            Task t3 = t2.ContinueWith(t=> AllgemeinerFolgetask2());
+
 
             //2.) Folgetask bei Fehler
             t1.ContinueWith(t => FolgetaskBeiFehler(), TaskContinuationOptions.OnlyOnFaulted);
 
-            //3.) Folgetask wenn voriger Methode ohne Fehler durchgelaufen ist
+            //3.) Folgetask, wenn voriger Methode ohne Fehler durchgelaufen ist
             t1.ContinueWith(t => FolgetaskBeiErfolg(), TaskContinuationOptions.OnlyOnRanToCompletion);
 
+            #region Folgetask-Verkettung (unterhalb von FolgetaskBeiFehler) 
+            Task t4 = t1.ContinueWith(t => AllgemeinerFolgetask());
 
+            Task t5 = t2.ContinueWith(t => AllgemeinerFolgetask2());
+
+            t3.Wait();
+            #endregion
             Console.ReadLine();
         }
 

@@ -1,0 +1,9 @@
+
+await -> Main Methode hält trotzdem an! Warum? 
+
+Parallel.Invoke -> kann ich eine Methode vorab stoppen oder erfahren, wann diese fertig ist.
+
+Parallel.Invoke -> Entscheidet Parallel.Invoke, ob TPL oder ohne
+
+
+Dictionary -> Use Case Sample

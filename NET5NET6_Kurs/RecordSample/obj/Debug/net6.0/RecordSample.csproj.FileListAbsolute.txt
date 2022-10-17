@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\bin\Debug\net6.0\RecordSample.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\bin\Debug\net6.0\RecordSample.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\bin\Debug\net6.0\RecordSample.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\bin\Debug\net6.0\RecordSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\bin\Debug\net6.0\RecordSample.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\refint\RecordSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\RecordSample.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\RecordSample\obj\Debug\net6.0\ref\RecordSample.dll

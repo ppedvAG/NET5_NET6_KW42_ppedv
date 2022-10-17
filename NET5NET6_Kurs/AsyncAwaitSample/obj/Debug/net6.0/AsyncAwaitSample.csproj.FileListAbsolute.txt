@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\bin\Debug\net6.0\AsyncAwaitSample.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\bin\Debug\net6.0\AsyncAwaitSample.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\bin\Debug\net6.0\AsyncAwaitSample.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\bin\Debug\net6.0\AsyncAwaitSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\bin\Debug\net6.0\AsyncAwaitSample.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\refint\AsyncAwaitSample.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\AsyncAwaitSample.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\AsyncAwaitSample\obj\Debug\net6.0\ref\AsyncAwaitSample.dll

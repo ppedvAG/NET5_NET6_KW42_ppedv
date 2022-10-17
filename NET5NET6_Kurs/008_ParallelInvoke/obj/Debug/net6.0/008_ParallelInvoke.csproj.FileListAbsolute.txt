@@ -1,0 +1,15 @@
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\bin\Debug\net6.0\008_ParallelInvoke.exe
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\bin\Debug\net6.0\008_ParallelInvoke.deps.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\bin\Debug\net6.0\008_ParallelInvoke.runtimeconfig.json
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\bin\Debug\net6.0\008_ParallelInvoke.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\bin\Debug\net6.0\008_ParallelInvoke.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.AssemblyInfo.cs
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\refint\008_ParallelInvoke.dll
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.pdb
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\008_ParallelInvoke.genruntimeconfig.cache
+C:\Aktueller Kurs\NET5_NET6_KW42_ppedv\NET5NET6_Kurs\008_ParallelInvoke\obj\Debug\net6.0\ref\008_ParallelInvoke.dll
