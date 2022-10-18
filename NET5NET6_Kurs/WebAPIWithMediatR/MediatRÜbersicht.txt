@@ -1,0 +1,11 @@
+﻿MediatR Übersicht
+
+Workflows die hinterlegt
+
+IRequest kann man verwenden um Lese und Schreibvorgänge (Richtung DB)  bei einer WebAPI zu realisieren 
+IRequest -> IRequestHandler zusammen (1:1)
+
+
+(Boradcast)
+INotification -> INoficationHandler (1:n)
+

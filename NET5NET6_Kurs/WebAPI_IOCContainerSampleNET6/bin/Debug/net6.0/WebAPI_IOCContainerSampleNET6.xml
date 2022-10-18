@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPI_IOCContainerSampleNET6</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "M:WebAPI_IOCContainerSampleNET6.Controllers.KonvetionenController.GetMovies" -->
+        <member name="M:WebAPI_IOCContainerSampleNET6.Controllers.KonvetionenController.GetMovieById(System.Int32)">
+            <summary>
+            Gebe Movie anhand der ID
+            </summary>
+            <param name="id">ID des Movies</param>
+            <returns>Movie</returns>
+        </member>
+    </members>
+</doc>

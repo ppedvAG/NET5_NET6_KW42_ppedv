@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "37N93AZ7fbHlZJWWUeoNbLQ4F4OeLt2VgxSsGc7IaNY=",
+  "Source": "WebAPIWithMediatR",
+  "BasePath": "_content/WebAPIWithMediatR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

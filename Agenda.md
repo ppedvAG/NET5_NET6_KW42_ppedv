@@ -13,10 +13,12 @@ Montag
   
   Dienstag
 - [x] SOLID
-- [ ] IOC Container
-- [ ] Verwenden von IOC in ASP.NET Core WebAPI
-- [ ] Was ist MediatR?
-- [ ] WebAPI - SwaggerUI und Konventionen
+- [x] IOC Container
+- [x] Verwenden von IOC in ASP.NET Core WebAPI
+- [x] Was ist MediatR?
+- [x] WebAPI - SwaggerUI und Konventionen
+- [x] Asynchrone Task in WebAPI-Controller-Klasse (CRUD) 
+- [x] Formatter -> XML, CSV
 
 (Wenn noch Zeit vorhanden ist (optional))
  

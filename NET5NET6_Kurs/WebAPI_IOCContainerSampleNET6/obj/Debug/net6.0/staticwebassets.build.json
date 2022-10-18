@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5FVtQYW/BNvR83dtBvw2XBhhTzQaK5gqfoaR1C6IwtE=",
+  "Source": "WebAPI_IOCContainerSampleNET6",
+  "BasePath": "_content/WebAPI_IOCContainerSampleNET6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebAPI_IOCContainerSampleNET6.props" />
+</Project>

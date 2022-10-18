@@ -45,9 +45,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.2.3, )"
+            },
+            "WebApiContrib.Core.Formatter.Csv": {
+              "target": "Package",
+              "version": "[4.0.0, )"
             }
           },
           "imports": [
