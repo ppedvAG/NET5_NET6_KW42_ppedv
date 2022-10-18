@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wQAHG5CTyOKZQQXRHyFJOX4NMNrMkbopqRkV4v8hsSeGRS86x2JMPDf5zvf3iCKQur9ZPgkD57DvHf8IcMR7kw==",
+  "success": true,
+  "projectFilePath": "C:\\Aktueller Kurs\\NET5_NET6_KW42_ppedv\\NET5NET6_Kurs\\IOCContainerSample\\IOCContainerSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\kw4\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
